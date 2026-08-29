@@ -1,0 +1,14 @@
+{
+    "owners": [
+        The_owners_of_the_bot_use_ur_numeric_id
+    ],
+    "tokens": {
+        "bot_token": "Your_Bot_Token"
+    },
+    "discord": {
+        "accounts_channel": Your_Accounts_or_hits_channel_id
+    },
+    "autosecure": {
+        "replace_main_alias": true
+    }
+}
