@@ -5,5 +5,5 @@ To use the Bot , create a zip folder with three files
 2) requirements.txt
 3) config.json
 Then use all the things that i have used in the files i mean copy them into ur folder.
-Also create an empty Folder named "database.db"
+4) Also create an empty Folder named "database.db"
 # IM NOT RESPONSIBLE TO ANY LOSS OR HARM WITH THE HELP OF THIS BOT
